@@ -14,3 +14,6 @@ And here is the sanpshot of what QuickSight dashboard looks like.
 
 ## Dashboard Layout
 ![alt text](https://github.com/yunhanfeng/AWS_Real_Time_Tweet_Dashboard/blob/master/Images/Dashboard.JPG)
+
+
+Team member: Rohan Bhatia, Hua Lang, Yun-Han (Henry) Feng, Ankur Tomar, Tanmayee Waghmare, Samridhi Wadhwa
